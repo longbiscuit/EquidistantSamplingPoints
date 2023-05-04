@@ -10,7 +10,10 @@ Remove points that are too dense on the curve so that the remaining points are a
 提取码：7bmk
 
 解决：
+
+
 ![image](https://user-images.githubusercontent.com/21994802/236097308-9910c61c-0e0c-4f54-8ee7-57a20359d572.png)
+
 
 matlab 2021a 代码如下：
 ```matlab
