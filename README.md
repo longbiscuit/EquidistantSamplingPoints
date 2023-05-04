@@ -2,7 +2,7 @@
 Remove points that are too dense on the curve so that the remaining points are approximately equally spaced
 
 如何按弧长等分曲线并取出等分点坐标？
-科研中经常需要删除曲线中多余的点，但由于曲线斜率不一致，导致按x或按y等间距取点都不合适，需要按弧长等间距取点，且试验数据是离散点，请问如何做？
+科研中经常需要删除曲线中多余的点，但由于曲线斜率不一致，导致按x或按y等间距取点都不合适，需要**按弧长等间距取点**，且试验数据是离散点，请问如何做？
 
 
 原始数据链接：https://pan.baidu.com/s/1vU_qHDDdPDnhrbJCgdyozw?pwd=7bmk
